@@ -14,7 +14,7 @@ def bubble_sort(list)
       num += 1
       end
     end
-    if sorted == true
+    if sorted
       break list
     end
   end
